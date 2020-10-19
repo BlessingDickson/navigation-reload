@@ -8,13 +8,13 @@
         "scripts": ["background.js"]
     },
     "icons": {
-        "48": "icons/icon.png"
+        "48": "icon.png"
     },
     "browser_action": {
       "browser_style": true,
       "default_title": "Navigation Reload",
       "default_popup": "tabs.html",
-      "default_icon": "icons/icon2.png"
+      "default_icon": "icon2.png"
     },
     "description": "A navigation reload extension for mozilla firefox.",
     "homepage_url": "https://github.com/BlessingDickson/navigation-reload",
