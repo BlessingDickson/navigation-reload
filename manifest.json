@@ -16,8 +16,9 @@
       "default_popup": "tabs.html",
       "default_icon": "icon2.png"
     },
-    "description": "A navigation reload extension for mozilla firefox.",
+    "description": "A tab reload extension for mozilla firefox.",
     "homepage_url": "https://github.com/BlessingDickson/navigation-reload",
+    "author": "Blessing Dickson",
     "manifest_version": 2,
     "name": "Navigation Reload",
     "permissions": [
