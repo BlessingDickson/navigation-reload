@@ -1,0 +1,28 @@
+{
+    "browser_specific_settings": {
+      "gecko": {
+        "strict_min_version": "58.0a1"
+      }
+    },
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "icons": {
+        "48": "icons/icon.png"
+    },
+    "browser_action": {
+      "browser_style": true,
+      "default_title": "Navigation Reload",
+      "default_popup": "tabs.html",
+      "default_icon": "icons/icon2.png"
+    },
+    "description": "A navigation reload extension for mozilla firefox.",
+    "homepage_url": "https://github.com/BlessingDickson/navigation-reload",
+    "manifest_version": 2,
+    "name": "Navigation Reload",
+    "permissions": [
+      "tabs"
+    ],
+    "version": "1.0"
+  }
+  
